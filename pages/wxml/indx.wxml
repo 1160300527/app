@@ -1,0 +1,7 @@
+<!--pages/wxml/indx.wxml-->
+<!--这是第一次尝试-->
+<text>HelloWorld</text>
+<view>
+  <text>first text</text>
+</view>
+<text>当前时间：{{time}}</text>
